@@ -1,5 +1,5 @@
- IP: 158.160.83.92;
- name_taski: https://app-tasks.3utilities.com/;
- name_kittygram: https://app-kittygram.3utilities.com/signin;
- login: yc-user;
- password: JlOv3bJ-5z;
+IP: 158.160.83.92;
+name_taski: https://app-tasks.3utilities.com/;
+name_kittygram: https://app-kittygram.3utilities.com/;
+login: yc-user;
+password: 11111111;
