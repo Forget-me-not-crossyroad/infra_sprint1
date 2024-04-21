@@ -7,7 +7,7 @@
 <i>Примечание: Все примеры указаны для Linux</i><br>
 1. Склонируйте репозиторий на свой компьютер:
     ```
-    git clone git@github.com:1emd/kittygram_final.git
+    git clone https://github.com/Forget-me-not-crossyroad/kittygram_final.git
     ```
 2. Создайте файл `.env` и заполните его своими данными. Все необходимые переменные перечислены в файле `.env.example`, находящемся в корневой директории проекта.
 
